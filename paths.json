@@ -1,19 +1,21 @@
 {
     "mappings": [
-      "/content/pbakliwal/eds-citisignal-source/:/",
-      "/content/pbakliwal/eds-citisignal-source/configuration:/.helix/config.json",
-      "/content/pbakliwal/eds-citisignal-source/metadata:/metadata.json",
-      "/content/pbakliwal/eds-citisignal-source/configs:/configs.json",
-      "/content/pbakliwal/eds-citisignal-source/configs-stage:/configs-stage.json",
-      "/content/pbakliwal/eds-citisignal-source/configs-dev:/configs-dev.json",
-      "/content/pbakliwal/eds-citisignal-source/redirects:/redirects.json",
-      "/content/pbakliwal/eds-citisignal-source/placeholders:/placeholders.json",
-      "/content/pbakliwal/eds-citisignal-source/products/recommended-products:/products/recommended-products.json",
-      "/content/pbakliwal/eds-citisignal-source/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/pbakliwal/eds-citisignal-source/images/products/:/images/products/"
+      "/content/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/:/",
+      "/content/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/configuration:/.helix/config.json",
+      "/content/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/metadata:/metadata.json",
+      "/content/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/configs:/configs.json",
+      "/content/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/configs-stage:/configs-stage.json",
+      "/content/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/configs-dev:/configs-dev.json",
+      "/content/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/redirects:/redirects.json",
+      "/content/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/placeholders:/placeholders.json",
+      "/content/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/products/recommended-products:/products/recommended-products.json",
+      "/content/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/pbakliwal/eds-citisignal-source",
-      "/content/dam/citisignal/images/products/"
+      "/content/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/",
+      "/content/dam/citisignal/images/products/",
+"/content/dam/latapie/9c345fb8-4420-43ac-8996-d5b15a1acc03/",
+"/content/dam/citisignal-assets/"
     ]
 }
